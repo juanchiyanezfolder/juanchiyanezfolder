@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanchiyanezfolder
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Blockchain Development
 - 📫 Im currently working at Folder IT
 
 <!---
